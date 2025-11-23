@@ -6,7 +6,7 @@ import pickle
 # Page configuration
 st.set_page_config(
     page_title="Insurance Cost Predictor",
-    page_icon="💊",
+    page_icon="🏎️",
     layout="centered"
 )
 
